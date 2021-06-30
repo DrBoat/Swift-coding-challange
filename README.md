@@ -1,3 +1,3 @@
 # Swift-coding-challange
-My solutions from challenges in "Swift Coding Challenges" book
+My solutions of challenges from "Swift Coding Challenges" book
 https://www.hackingwithswift.com/store/swift-coding-challenges
